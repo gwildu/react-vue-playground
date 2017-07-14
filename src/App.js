@@ -9,10 +9,10 @@ export default class App extends Component {
   render () {
     return (
       <div>
-        <StartDemo />
-        <StartVuexDemo />
+        {/*<StartDemo />*/}
+        {/*<StartVuexDemo />*/}
         <VueDemo />
-        <VuexDemo />
+        {/*<VuexDemo />*/}
       </div>
     )
   }

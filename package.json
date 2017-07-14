@@ -16,11 +16,14 @@
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "vuex": "^2.3.1",
     "react-vue": "^0.0.3",
-    "react-vue-helper": "^0.0.4"
+    "react-vue-helper": "^0.0.4",
+    "vuex": "^2.3.1"
   },
   "devDependencies": {
+    "sass-loader": "^6.0.6",
+    "css-loader": "^0.28.4",
+    "node-sass": "^4.5.3",
     "babel-core": "^6.24.1",
     "babel-eslint": "^7.2.3",
     "babel-loader": "^7.0.0",
