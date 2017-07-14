@@ -76,6 +76,9 @@
   }
   .ric-wrapper-wrapper {
     display: flex;
+    @media screen and (max-width: 600px) {
+      flex-direction: column;
+    }
   }
   strong {
     font-size: 1.5em;
