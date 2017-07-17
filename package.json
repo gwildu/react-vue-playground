@@ -1,7 +1,7 @@
 {
-  "name": "react-vue-demo",
+  "name": "react-vue-playground",
   "version": "0.0.2",
-  "description": "react-vue demo",
+  "description": "react-vue playground",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server"
